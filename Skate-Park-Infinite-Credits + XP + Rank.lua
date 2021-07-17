@@ -2,7 +2,7 @@
 
 local RedeemCode = game:GetService("ReplicatedStorage").Aero.AeroRemoteServices.CodeService.Redeem
 local RenderStepped = game:GetService("RunService").RenderStepped
-local Codes = {'8k', '7k','milo','retromada','race','razor','starsub','flamingo', '100k','sorry','update','newpark','vacation','skateboarding','tistheseason'}
+local Codes = {'8k', '7k','milo','retromada','race','razor','starsub','flamingo', '100K','sorry','update','NEWPARK','vacation','skateboarding','TisTheSeason', 'HOLIDAY', 'update'}
 
 
 local settings = {repeatamount = 900, inclusions = {"Redeem"}}
